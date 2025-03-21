@@ -1,26 +1,4 @@
 {
-  "categories": [
-    {
-      "id": "cat-1",
-      "name": "Work",
-      "color": "#FF6B6B"
-    },
-    {
-      "id": "cat-2",
-      "name": "Personal",
-      "color": "#4ECDC4"
-    },
-    {
-      "id": "cat-3",
-      "name": "Health",
-      "color": "#95E1D3"
-    },
-    {
-      "id": "cat-4",
-      "name": "Learning",
-      "color": "#A8E6CF"
-    }
-  ],
   "todos": [
     {
       "id": "todo-1",
@@ -65,6 +43,28 @@
       "id": "f50d",
       "text": "tailwind",
       "categorieId": "cat-1"
+    }
+  ],
+  "categories": [
+    {
+      "id": "cat-1",
+      "name": "Work",
+      "color": "#FF6B6B"
+    },
+    {
+      "id": "cat-2",
+      "name": "Personal",
+      "color": "#4ECDC4"
+    },
+    {
+      "id": "cat-3",
+      "name": "Health",
+      "color": "#95E1D3"
+    },
+    {
+      "id": "cat-4",
+      "name": "Learning",
+      "color": "#A8E6CF"
     }
   ]
 }
