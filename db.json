@@ -1,0 +1,70 @@
+{
+  "categories": [
+    {
+      "id": "cat-1",
+      "name": "Work",
+      "color": "#FF6B6B"
+    },
+    {
+      "id": "cat-2",
+      "name": "Personal",
+      "color": "#4ECDC4"
+    },
+    {
+      "id": "cat-3",
+      "name": "Health",
+      "color": "#95E1D3"
+    },
+    {
+      "id": "cat-4",
+      "name": "Learning",
+      "color": "#A8E6CF"
+    }
+  ],
+  "todos": [
+    {
+      "id": "todo-1",
+      "text": "Complete project documentation",
+      "completed": false,
+      "categorieId": "cat-1",
+      "description": "Write comprehensive documentation for the new feature implementation including API endpoints and data structures"
+    },
+    {
+      "id": "todo-2",
+      "text": "Grocery shopping",
+      "completed": false,
+      "categorieId": "cat-2",
+      "description": "Buy fruits, vegetables, and other essentials for the week"
+    },
+    {
+      "id": "todo-3",
+      "text": "Workout session",
+      "completed": false,
+      "categorieId": "cat-3",
+      "description": "30 minutes cardio followed by strength training exercises"
+    },
+    {
+      "id": "todo-4",
+      "text": "Read technical article",
+      "completed": false,
+      "categorieId": "cat-4",
+      "description": "Read the latest article about React performance optimization techniques"
+    },
+    {
+      "id": "4c24",
+      "text": "test5",
+      "categorieId": "cat-2",
+      "description": "tst555"
+    },
+    {
+      "id": "b40a",
+      "text": "tailwind",
+      "categorieId": "cat-1"
+    },
+    {
+      "id": "f50d",
+      "text": "tailwind",
+      "categorieId": "cat-1"
+    }
+  ]
+}
